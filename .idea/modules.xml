@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/Helloword.iml" filepath="$PROJECT_DIR$/Helloword.iml" />
       <module fileurl="file://$PROJECT_DIR$/Staticweb/Staticweb.iml" filepath="$PROJECT_DIR$/Staticweb/Staticweb.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaWeb/javaWeb.iml" filepath="$PROJECT_DIR$/javaWeb/javaWeb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mavendemo/mavendemo.iml" filepath="$PROJECT_DIR$/mavendemo/mavendemo.iml" />
     </modules>
   </component>
 </project>
